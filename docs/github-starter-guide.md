@@ -72,4 +72,4 @@ Now the files on your computer are up-to-date and you can continue working on th
 
 ## Conclusion
 
-That's all you need to know to contribute to an open-source project on GitHub.
+That's all you need to know to contribute to an open-source project on GitHub. To learn more about GitHub, check out GitHub's [official documentation](https://docs.github.com/en).
