@@ -47,7 +47,7 @@ After you've made changes to the project, open GitHub Desktop and navigate to th
 Write a summary of your changes and an optional description. Use the checkboxes on the left to choose which files to commit. Then, click **Commit *X* files to main**.
 
 :::note
-To avoid version conflicts, make sure you don't have other Git applications, such as github.com, open as you commit changes.
+To avoid version conflicts, make sure you don't have other Git applications—such as github.com—open as you commit changes.
 
 If you need to undo a commit, navigate to the **History** tab of your repository, right-click the most recent commit, and click **Revert changes in commit**. Your modified files will revert to the state they were in at the most recent commit. Review the changes and commit them again.
 :::

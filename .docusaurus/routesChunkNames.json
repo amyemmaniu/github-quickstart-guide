@@ -1,19 +1,62 @@
 {
-  "/github-quickstart-guide/-9b4": {
-    "__comp": "5e95c892",
+  "/github-quickstart-guide/__docusaurus/debug-bb4": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "aba21aa0"
+      "plugin": "plugin---github-quickstart-guide-docusaurus-debugb-38-eb3"
+    }
+  },
+  "/github-quickstart-guide/__docusaurus/debug/config-6c0": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---github-quickstart-guide-docusaurus-debugb-38-eb3"
+    }
+  },
+  "/github-quickstart-guide/__docusaurus/debug/content-387": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---github-quickstart-guide-docusaurus-debugb-38-eb3"
+    },
+    "__props": "__props---github-quickstart-guide-docusaurus-debug-content-6-c-8-704"
+  },
+  "/github-quickstart-guide/__docusaurus/debug/globalData-ac9": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---github-quickstart-guide-docusaurus-debugb-38-eb3"
+    }
+  },
+  "/github-quickstart-guide/__docusaurus/debug/metadata-cc0": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---github-quickstart-guide-docusaurus-debugb-38-eb3"
+    }
+  },
+  "/github-quickstart-guide/__docusaurus/debug/registry-8f5": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---github-quickstart-guide-docusaurus-debugb-38-eb3"
+    }
+  },
+  "/github-quickstart-guide/__docusaurus/debug/routes-8e1": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---github-quickstart-guide-docusaurus-debugb-38-eb3"
+    }
+  },
+  "/github-quickstart-guide/-9b4": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---github-quickstart-guide-aba-1c8"
     }
   },
   "/github-quickstart-guide/-5b5": {
-    "__comp": "a7bd4aaa",
-    "__props": "d8523385"
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---github-quickstart-guide-d-85-692"
   },
   "/github-quickstart-guide/-c55": {
-    "__comp": "a94703ab"
+    "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/github-quickstart-guide/-fec": {
-    "__comp": "17896441",
-    "content": "b6a8b927"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---github-quickstart-guide-b-6-a-cbe"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "github-starter-guide",
   "title": "Getting Started With GitHub",
-  "description": "GitHub is a useful tool for collaborating on code and documentation. It streamlines version control and keeps files accessible for your whole team.",
+  "description": "GitHub is a useful tool for collaborating on code and software documentation. It streamlines version control and keeps files accessible for your whole team.",
   "source": "@site/docs/github-starter-guide.md",
   "sourceDirName": ".",
   "slug": "/",
