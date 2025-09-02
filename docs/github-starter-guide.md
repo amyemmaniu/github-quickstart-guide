@@ -4,9 +4,11 @@ title: Getting Started With GitHub
 slug: /
 ---
 
-GitHub is a useful tool for collaborating on code and documentation. It streamlines version control and keeps files accessible for your whole team.
+GitHub is a useful tool for collaborating on code and software documentation. It streamlines version control and keeps files accessible for your whole team.
 
-Using [GitHub Desktop](https://desktop.github.com/download/) is the most beginner-friendly way to contribute to a project on GitHub. Once you download and set up the application, you'll be able to view the repositories you're working with and track changes to your files. A repository is a space on GitHub where your project files and change history are stored.
+Using [GitHub Desktop](https://desktop.github.com/download/) is the most beginner-friendly way to contribute to a project on GitHub, as it provides a graphical user interface that allows you to easily push changes to the web.
+
+Once you download and set up the application, you'll be able to view the repositories you're working with and track changes to your files. A repository is a space on GitHub where your project files and change history are stored.
 
 This guide will teach you how to contribute to an open-source project on GitHub using GitHub Desktop.
 
@@ -72,4 +74,4 @@ Now the files on your computer are up-to-date and you can continue working on th
 
 ## Conclusion
 
-That's all you need to know to contribute to an open-source project on GitHub. To learn more about GitHub, check out GitHub's [official documentation](https://docs.github.com/en).
+That's all you need to know to contribute to an open-source project on GitHub. To learn more about GitHub, check out [GitHub's official documentation](https://docs.github.com/en).
