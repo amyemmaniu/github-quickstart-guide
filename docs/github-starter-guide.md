@@ -32,7 +32,7 @@ If you clone a repository you do not have write access to and attempt to push a 
 
 ![Clone repository in GitHub Desktop](/img/images/github-desktop.png)
 
-In the **Clone a repository** tab, click on the **URL** tab and paste in the repository's URL. Then, select the local path (the place where the repository will be stored on your computer) and click **Clone**.
+In the **Clone a repository** tab, click on the **URL** tab and paste the repository's URL into the field labeled *Repository URL or GitHub username and repository*. Then, click on the *Choose...* button to the right of the *Local path* field. Select the local path (the place where the repository will be stored on your computer) and click **Clone**.
 
 ![Clone a repository using URL](/img/images/clone-in-github-desktop.png)
 
