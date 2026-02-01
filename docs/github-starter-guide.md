@@ -52,7 +52,7 @@ To avoid version conflicts, make sure you don't have other Git applications—su
 If you need to undo a commit, navigate to the **History** tab of your repository, right-click the most recent commit, and click **Revert changes in commit**. Your modified files will revert to the state they were in at the most recent commit. Review the changes and commit them again.
 :::
 
-Note how the button at the top originally called **Fetch origin** is labeled **Push origin** once you commit your changes. Press this button to send the changes from your computer to the GitHub server.
+Note that the button at the top originally called **Fetch origin** will be labeled **Push origin** once you commit your changes. Press this button to send the changes from your computer to the GitHub server.
 
 ![Push origin on GitHub Desktop](/img/images/push-origin.png)
 
