@@ -18,21 +18,21 @@ Navigate to the repository of the [GitHub](https://github.com/) project to which
 
 ![Example GitHub repository](/img/images/github-repo.png)
 
-Click on the **Code** drop-down and copy the HTTPS web URL by clicking on the **Copy url to clipboard** button on to the right of the URL.
+Click on the **Code** drop-down. Copy the HTTPS web URL by clicking on the **Copy url to clipboard** button on to the right of the URL.
 
 ![Copy repository URL](/img/images/get-repo-url.png)
 
-Open the GitHub Desktop application and click **Current repository** > **Add** > **Clone repository**.
+Open GitHub Desktop and click **Current repository** > **Add** > **Clone repository**.
 
 *Cloning* a repository copies the repository from GitHub onto your computer. Changes made in the cloned repository will automatically sync with the online repository when pushed.
 
-By contrast, *forking* a repository creates an independent copy of the repository on your computer, and any changes you make will not automatically be synced when pushed. Instead, you will have to create a pull request—a way to communicate your changes to the repository owner—and have it be reviewed and accepted in order to see your changes reflected in the original repository.
+By contrast, *forking* a repository creates an independent copy of the repository on your computer. Any changes you make will not automatically be synced when pushed. Instead, you will have to create a pull request—a way to communicate your changes to the repository owner—and have it be reviewed and accepted in order to see your changes reflected in the original repository.
 
 If you clone a repository you do not have write access to and attempt to push a change to the repository, GitHub Desktop will create a fork for you.
 
 ![Clone repository in GitHub Desktop](/img/images/github-desktop.png)
 
-In the **Clone a repository** tab, click on the **URL** tab and paste the repository's URL into the field labeled *Repository URL or GitHub username and repository*. Then, click on the **Choose...** button to the right of the *Local path* field. Select the local path (the place where the repository will be stored on your computer) and click **Clone**.
+In the **Clone a repository** dialog, click on the **URL** tab. Paste the repository's URL into the field labeled *Repository URL or GitHub username and repository*. Then, click on the **Choose...** button to the right of the *Local path* field. Select the local path (the place where the repository will be stored on your computer) and click **Clone**.
 
 ![Clone a repository using URL](/img/images/clone-in-github-desktop.png)
 
