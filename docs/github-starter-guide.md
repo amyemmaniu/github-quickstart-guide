@@ -8,7 +8,7 @@ GitHub is a useful tool for collaborating on code and software documentation. It
 
 Using [GitHub Desktop](https://desktop.github.com/download/) is the most beginner-friendly way to contribute to a project on GitHub, as it provides a graphical user interface that allows you to easily push changes to the web.
 
-Once you download and set up the application, you'll be able to view the repositories you're working with and track changes to your files. A repository is a space on GitHub where your project files and change history are stored.
+Once you download the application, you'll be able to view the repositories you're working with and track changes to your files. A repository is a space on GitHub where your project files and change history are stored.
 
 This guide will teach you how to contribute to an open-source project on GitHub using GitHub Desktop.
 
