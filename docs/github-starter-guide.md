@@ -1,5 +1,5 @@
 ---
-id: github-starter-guide
+id: github-quickstart-guide
 title: Getting Started With GitHub
 slug: /
 ---
