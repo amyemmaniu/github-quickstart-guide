@@ -19,7 +19,7 @@ module.exports = {
   tutorialSidebar: [
     {
       type: 'doc',
-      id: 'github-starter-guide', // Must match the front matter ID in docs/github-starter-guide.md
+      id: 'github-quickstart-guide',
     },
   ],
 };
